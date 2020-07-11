@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Dogs
+2. Fantasy Books
+  1. Favourite author is Brandon Sanderson
+3. My husband
